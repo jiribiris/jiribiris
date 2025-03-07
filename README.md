@@ -163,42 +163,6 @@
 
 <br>
 
-<h3 align="left">🤝 Connect with me</h3>
-
-###
-
-<div align="center">
-  <a href="mailto:sasindu199928@gmail.com" target="_blank">
-    <img src="https://icon-library.com/images/apps-gmail.svg.svg" height="45" alt="gmail logo"  />
-    <!--<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />-->
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/sasindu-mallawarachchi" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="linkedin logo"  />
-  <!--<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />-->
-  </a>
-  &nbsp;
-  <a href="https://www.facebook.com/sasi.rastha" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/128/733/733547.png" height="45" alt="facebook logo"  />
-    <!--<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />-->
-  </a>
-  &nbsp;
-  <a href="https://instagram.com/sasindu_2020" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram" height="45" alt="instagram logo"  />
-    <!--<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />-->
-  </a>
-  &nbsp;
-  <a href="discordapp.com/users/_sasindu" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" height="45" alt="discord logo"  />
-    <!--<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />-->
-  </a>
-  &nbsp;
-  <a href="https://twitter.com/..." target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" height="45" alt="twitter logo"  />
-    <!--<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />-->
-  </a>
-</div>
-
 ###
 
 <br>
